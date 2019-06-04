@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(26): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(31): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(37): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(74): warning C4018: '>': signed/unsigned mismatch
+c:\users\krzysztof\source\repos\rsa\rsa\source.cpp(79): warning C4018: '>': signed/unsigned mismatch
+  RSA.vcxproj -> C:\Users\Krzysztof\source\repos\RSA\Debug\RSA.exe
